@@ -1,7 +1,7 @@
 # sobre mim
-- 👋 Ola meu nome é @aluraestudante
-:-:meu email de contato é meu email de contato é estudante.alura@gmail.com.br
+- 👋 Ola meu nome é **@aluraestudante **
+:+1 meu email de contato é [email] (estudantealura.aluragmail.com.br)
 Eu estou interessado em aprender a programar novas linguagens.
-Eu estou aprendendo
-I´m looking to collaborate on...
-How te reach me...
+Eu estou aprendendo a programar recetemente a linguagem de javascript e scratch
+
+
